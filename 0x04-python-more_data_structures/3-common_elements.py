@@ -2,7 +2,7 @@
 
 
 """
-A function that returns a set of 
+A function that returns a set of
 common elements in two sets.
 """
 
